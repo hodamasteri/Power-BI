@@ -14,4 +14,4 @@ This repository contains a Power BI report designed for analyzing healthcare cla
 ## Embed Link:
 - https://app.powerbi.com/reportEmbed?reportId=40112ffa-318f-4b9b-9b37-af067c3fcb00&autoAuth=true&ctid=e8ed0811-08f0-4e2a-8993-a37abd659e91
 
-![ERD]([image_url_or_path](https://github.com/hodamasteri/Power-BI/blob/main/ERD.jpg)
+![ERD]([image_url_or_path](https://github.com/hodamasteri/Power-BI/blob/main/ERD.jpg))
