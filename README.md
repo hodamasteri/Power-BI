@@ -5,7 +5,7 @@ This repository contains a Power BI report designed for analyzing healthcare cla
 - **Dim_Patient**: Holds demographic and health-related data for patients.
 - **Dim_Provider**: Contains details about healthcare providers.
 - **Dim_Insurer**: Includes information about insurance providers.
-- **Dim_Date**: A date dimension used for time-based analysis.
+- **Dim_Date**: A date dimension (calculated table) used for time-based analysis.
 
 ![ERD](images/ERD.jpg)
 
