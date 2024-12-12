@@ -1,4 +1,4 @@
-# Healthcare Claims Analysis Power BI Dashboard
+# Healthcare Claims Analysis Power BI Report
 
 This repository contains a Power BI report designed for analyzing healthcare claims data (mock data). The report utilizes a star schema model with data from the following tables:
 - **Fact_Claims**: Contains detailed information about healthcare claims.
