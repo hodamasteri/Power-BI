@@ -22,7 +22,7 @@ This repository contains a Power BI report designed for analyzing healthcare cla
 
 1. **Download the Files:** Download the `sample_report.pbix` and `mock_data.xlsx` files from this repository.
 2. **Open the pbix file using Power BI Desktop:** You will need Power BI Desktop installed on your computer. Open Power BI desktop, navigate to "File" -> "Open" and select the `sample_report.pbix` file.
-3. **Update Data Source:** From Home > click **Transform Data** to see the power query window. Click on each of the four queries (fact and dim tables) shown on the left side, one at a time, and update (double-click) the **Source** step from the listed **APPLIED STEPS** and update the file path to where you have stored the mock_data.xlsx. After updating the data source for all 4 tables, click **Close & Apply**.
-4. The report provides various visualizations and filters to analyze healthcare claims data!
+3. **Update Data Source:** From Home > click `Transform Data` to see the power query window. Click on each of the four queries (fact and dim tables) shown on the left side, one at a time, and update (double-click) the `Source` step from the listed `APPLIED STEPS` and update the file path to where you have stored the mock_data.xlsx. After updating the data source for all 4 tables, click `Close & Apply`.
+4. **Interact with the Report:** The report provides various visualizations and filters to analyze healthcare claims data!
 
 ![ERD](images/screenshot.jpg)
